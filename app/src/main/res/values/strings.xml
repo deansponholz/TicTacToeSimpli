@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToeSimpli</string>
+    <string name="newGameTitle">New Game</string>
+    <string name="currentPlayerTitle">Current Player: </string>
+    <string name="playerWinTitle">Winning Player: </string>
+    <string name="playerWinLocation">Winning Location: </string>
+</resources>
